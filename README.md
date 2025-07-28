@@ -103,5 +103,3 @@ Metrik evaluasi:
 * Integrasikan data gambar atau peta jika tersedia, dan eksplorasi model CNN.
 
 ---
-
-Jika kamu ingin README ini dalam format `.md` untuk GitHub atau dokumentasi, tinggal beri tahu, saya bisa bantu generasikan file-nya.
